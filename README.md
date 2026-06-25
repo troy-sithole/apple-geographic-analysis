@@ -267,7 +267,7 @@ apple-geographic-analysis/
 ├── visualizations/
 │   ├── 01_geographic_mix_dash.png
 │   ├── 02_china_trend_dash.png
-│   ├── 03_reginal_growth_comp_dash.png
+│   ├── 03_regional_growth_comp_dash.png
 │   ├── 04_mixed_dashboard.png
 │   └── overview_dashboard.png
 └── README.md 
